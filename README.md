@@ -16,6 +16,11 @@ Assignment No 2 for the computer graphics course. Modify previous code examples 
 
 **Deadline: 01/02/2019 1:00pm**
 
+**Grade: 90**
+
+**Feedback:
+- Check the rotation of the dodecahedron.
+- After a few cycles, the octahedron moves past the borders of the canvas.
 
 <img src="Images/Pyramid.png" width="300">
 <br/>Figure 1: 3D Pyramid.<br/>
